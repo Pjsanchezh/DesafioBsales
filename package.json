@@ -1,0 +1,17 @@
+{
+  "name": "bsale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon js/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "promise-mysql": "^5.1.0"
+  },
+  "description": ""
+}
